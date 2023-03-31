@@ -1,0 +1,1 @@
+Jag skapade en enkel view och kopplade den till model med controller så att jag kan starta och se en view.
